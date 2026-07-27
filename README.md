@@ -1,8 +1,13 @@
 # trs80-M1-floppy80
 
+The work here is thanks to the original author, please visit:
+
+https://github.com/MichaelM4/Floppy80-M1
+
+
 This is currently a copy of the SD-Card sent out to anyone who buys my version of the floppy80-M1.
 
-I will be uploading the gerber files soon and more info as and when I can over the next few weeks
+I will be uploading the gerber files for my version of the above projects PCB soon.
 
 The zip file is a zip copy of the root of the sd-card and cpmes with the following OS's pre- setup:
 
