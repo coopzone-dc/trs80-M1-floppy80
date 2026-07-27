@@ -2,7 +2,8 @@
 
 The work here is thanks to the original author, please visit:
 
-https://github.com/MichaelM4/Floppy80-M1
+[https://github.com/MichaelM4/Floppy80-M1](https://github.com/MichaelM4/Floppy80-M1
+)
 
 
 This is currently a copy of the SD-Card sent out to anyone who buys my version of the floppy80-M1.
