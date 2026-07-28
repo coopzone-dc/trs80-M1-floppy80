@@ -17,7 +17,7 @@ CPM150 - just floppy disk 1-3
 
 DOSPLUS35 - just floppy disks 1-3, if i can find the HD drivers I will add them.
 
-ldoshd - LSDOS5 boot disk and HD imgage
+ldoshd - LDOS531 boot disk and HD imgage
 
 newdos80hd - NEWDOS80 boot disk and HD image
 
